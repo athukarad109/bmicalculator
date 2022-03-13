@@ -1,0 +1,25 @@
+img {
+    width: 20%;
+    height: 20%;
+}
+
+.container {
+    text-align: center;
+}
+
+.bmi {
+    display: flex;
+    flex-direction: row;
+    width: 25%;
+    margin: 0 auto;
+}
+
+.row {
+    margin: 12px;
+}
+
+.bmiCon {
+    width: 75%;
+    border: 2px solid black;
+    padding: 22px;
+}
